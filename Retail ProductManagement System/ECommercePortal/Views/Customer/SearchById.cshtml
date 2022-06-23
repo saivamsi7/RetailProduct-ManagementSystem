@@ -1,0 +1,32 @@
+﻿@model ECommercePortal.Models.Product
+
+@{
+    ViewData["Title"] = "SearchById";
+}
+
+<link href="~/css/BasicStyle.css" rel="stylesheet" />
+
+<h2>Search By Product Id</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchById" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProductId" class="control-label"></label>
+                <input asp-for="ProductId" placeholder="Enter ProductId" min=1 class="form-control" />
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

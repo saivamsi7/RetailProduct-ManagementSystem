@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<link href="~/css/BasicStyle.css" rel="stylesheet" />
+
+<script>
+    function data() {
+        document.getElementById("p1").innerHTML = "Product Succesfully Added To Wishlist";
+       
+    }
+</script>
+
+
+
+<h2>This Product is not in Stock </h2>
+<br />
+<button class=" btn btn-primary" onclick="data()">Add To Wishlist</button>
+<br />
+<br />
+<h2><p id="p1"></p></h2>
+<br />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

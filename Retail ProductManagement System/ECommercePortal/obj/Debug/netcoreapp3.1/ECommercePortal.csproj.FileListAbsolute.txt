@@ -1,0 +1,973 @@
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddRating.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\31129\source\repos\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+C:\Users\31129\source\repos\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddRating.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache
+E:\My Documents\Cogni\MFPE\Demo\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Invalid.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Invalid.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable1.cshtml.g.cs
+C:\Users\31129\OneDrive\Desktop\OurProject\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Invalid.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable1.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache
+E:\My Documents\Cogni\MFPE\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable2.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\New folder\Run\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Invalid.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable1.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable2.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+E:\New folder\Run\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart1.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.exe
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.deps.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.runtimeconfig.dev.json
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csprojAssemblyReference.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfoInputs.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.AssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CoreCompileInputs.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.MvcApplicationPartsAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.input.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.TagHelpers.output.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorCoreGenerate.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\AddProductToCart1.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CartStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Edit.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Invalid.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable1.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotAvailable2.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductNotInStock.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchById.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\SearchByName.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Status.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Customer\WishlistStatus.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\User\Login.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.RazorTargetAssemblyInfo.cs
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.Views.pdb
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.csproj.CopyComplete
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.Manifest.cache
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\staticwebassets\ECommercePortal.StaticWebAssets.xml
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.dll
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.pdb
+E:\My Documents\Cogni\MFPE\RetailProductManagement\ECommercePortal\obj\Debug\netcoreapp3.1\ECommercePortal.genruntimeconfig.cache

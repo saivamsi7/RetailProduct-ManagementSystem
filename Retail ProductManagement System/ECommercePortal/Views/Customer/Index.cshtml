@@ -1,0 +1,96 @@
+﻿@model IEnumerable<ECommercePortal.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="~/css/IndexStyle.css" rel="stylesheet" />
+
+<h4><span class="label label-default">Welcome @ViewBag.username !</span></h4>
+
+<div class="pull-left" style="float:right;">
+    <button type="submit" class="btn btn-outline-light">
+        <a asp-area="" asp-controller="User" asp-action="Logout">Logout</a>
+    </button>
+</div>
+
+<br />
+<br />
+
+<body>
+    <center>
+        <a asp-action="SearchById">Search Product By Id</a>&nbsp   &nbsp  &nbsp   &nbsp  &nbsp   &nbsp
+
+        <a asp-action="SearchByName">Search Product By Name</a>&nbsp   &nbsp  &nbsp   &nbsp  &nbsp   &nbsp
+
+        <a asp-action="AddProductToCart">Add Product To Cart</a>&nbsp   &nbsp  &nbsp   &nbsp  &nbsp   &nbsp
+
+        @*<a asp-area="" asp-controller="User" asp-action="Logout">Logout</a>*@
+    </center>
+</body>
+
+<br />
+
+<h2>Products</h2>
+<br />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ImageName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rating)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImageName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+
+                    <a asp-action="Edit" asp-route-productid="@item.ProductId">Add Rating</a>
+
+                </td>
+                <td>
+
+                    <a asp-action="AddProductToCart1" asp-route-productid="@item.ProductId">Add To Cart</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

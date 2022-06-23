@@ -1,0 +1,12 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table, th, td {
+    border: 2px solid black;
+    padding: 10px;
+    background: rgba(255,255,255,0.1);
+   }

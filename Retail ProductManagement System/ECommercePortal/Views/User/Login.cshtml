@@ -1,0 +1,52 @@
+﻿@model ECommercePortal.Models.User
+
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<link href="~/css/LoginStyle.css" rel="stylesheet" />
+
+<hr />
+@if (TokenInfo.StringToken == "")
+{
+    <h5>Invalid UserId or Password!</h5>
+    <br /><p>Kindly Login Again</p>
+    <a asp-action="Logout" class="btn btn-primary">Log in</a>
+}
+else if (TokenInfo.StringToken != null)
+{
+    <h5>Session Expired</h5>
+    <br /><p>Kindly Click Logout and Login Again</p>
+    <a asp-action="Logout" class="btn btn-primary">Logout</a>
+
+}
+
+else
+{
+    <body>
+        <div class="loginbox">
+            <h2>Login</h2>
+            <form asp-action="Auth" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="UserID" class="control-label"></label>
+                    <input type="text" asp-for="UserID" min=1 class="form-control" placeholder="Enter UserId" />
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" id="btn" value="Login" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </body>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
