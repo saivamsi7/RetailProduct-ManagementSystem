@@ -1,0 +1,20 @@
+INFO  03:00:53  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  03:00:53  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  03:00:53  08:11:2020 Hosting environment: Development
+INFO  03:00:53  08:11:2020 Hosting environment: Development
+INFO  03:00:53  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  03:00:53  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  04:43:10  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:43:10  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:43:10  08:11:2020 Hosting environment: Development
+INFO  04:43:10  08:11:2020 Hosting environment: Development
+INFO  04:43:10  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  04:43:10  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  04:44:22  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:44:22  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:44:22  08:11:2020 Hosting environment: Development
+INFO  04:44:22  08:11:2020 Hosting environment: Development
+INFO  04:44:22  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  04:44:22  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice
+INFO  04:44:45  08:11:2020 ProceedToBuyController - AddProductToCart
+INFO  04:44:45  08:11:2020 ProceedToBuyController - AddProductToCart - Http POST Request for AddProductToCart Failed for Product Id: 100 by Customer Id: 1

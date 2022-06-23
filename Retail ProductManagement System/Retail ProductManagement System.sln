@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice", "Product\ProductMicroservice\ProductMicroservice.csproj", "{C2070C5C-115F-4E81-9C9B-5196F0CB4BBD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProceedToBuyMicroservice", "ProceedToBuy\ProceedToBuyMicroservice\ProceedToBuyMicroservice.csproj", "{538995E0-FADB-4536-8F46-1575C087652E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C2070C5C-115F-4E81-9C9B-5196F0CB4BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2070C5C-115F-4E81-9C9B-5196F0CB4BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2070C5C-115F-4E81-9C9B-5196F0CB4BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538995E0-FADB-4536-8F46-1575C087652E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538995E0-FADB-4536-8F46-1575C087652E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538995E0-FADB-4536-8F46-1575C087652E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538995E0-FADB-4536-8F46-1575C087652E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
