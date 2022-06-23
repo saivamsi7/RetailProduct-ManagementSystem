@@ -1,0 +1,147 @@
+INFO  04:40:52  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:40:52  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  04:40:52  08:11:2020 Hosting environment: Development
+INFO  04:40:52  08:11:2020 Hosting environment: Development
+INFO  04:40:52  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  04:40:52  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:41:16  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:41:16  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:42:10  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:42:10  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:44:03  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:44:03  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:44:45  08:11:2020 VendorController - GetVendorDetails
+INFO  04:44:45  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 100
+INFO  04:44:45  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Failed for Product Id: 100
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:45:25  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:45:25  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 100
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Failed for Product Id: 100
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:46:22  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:46:22  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 100
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Failed for Product Id: 100
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  04:50:35  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 100
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Failed for Product Id: 100
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  04:50:35  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  06:05:23  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  06:05:23  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  06:05:23  08:11:2020 Hosting environment: Development
+INFO  06:05:23  08:11:2020 Hosting environment: Development
+INFO  06:05:23  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  06:05:23  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  06:21:17  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  06:21:17  08:11:2020 Application started. Press Ctrl+C to shut down.
+INFO  06:21:17  08:11:2020 Hosting environment: Development
+INFO  06:21:17  08:11:2020 Hosting environment: Development
+INFO  06:21:17  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  06:21:17  08:11:2020 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Vendor\VendorMicroservice
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 100
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Failed for Product Id: 100
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 2
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 2
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Started for Product Id: 1
+INFO  06:21:34  08:11:2020 VendorController - GetVendorDetails - Http GET Request for GetVendorDetails Completed for Product Id: 1
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 100
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Failed for Product Id: 100
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Started for Product Id: 2
+INFO  06:21:34  08:11:2020 VendorController - GetAllVendorDetails - Http GET Request for GetAllVendorDetails Completed for Product Id: 2

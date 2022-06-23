@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductMicroservice", "Prod
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProceedToBuyMicroservice", "ProceedToBuy\ProceedToBuyMicroservice\ProceedToBuyMicroservice.csproj", "{538995E0-FADB-4536-8F46-1575C087652E}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VendorMicroservice", "Vendor\VendorMicroservice\VendorMicroservice.csproj", "{155C4376-D07B-4625-9BD2-808124D5B03B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{538995E0-FADB-4536-8F46-1575C087652E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{538995E0-FADB-4536-8F46-1575C087652E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{538995E0-FADB-4536-8F46-1575C087652E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{155C4376-D07B-4625-9BD2-808124D5B03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{155C4376-D07B-4625-9BD2-808124D5B03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{155C4376-D07B-4625-9BD2-808124D5B03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{155C4376-D07B-4625-9BD2-808124D5B03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
