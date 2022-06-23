@@ -1,0 +1,15 @@
+INFO  01:55:47 Application started. Press Ctrl+C to shut down.
+INFO  01:55:47 Application started. Press Ctrl+C to shut down.
+INFO  01:55:47 Hosting environment: Development
+INFO  01:55:47 Hosting environment: Development
+INFO  01:55:47 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Authorization\AuthorizationMicroservice
+INFO  01:55:47 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Authorization\AuthorizationMicroservice
+INFO  01:56:24 AuthController - Login - Authentication Initiated for User Id: 1
+INFO  01:56:24 AuthController - Login - Token Generated for UserId: 1
+INFO  01:56:24 AuthController - Login - Authentication Successful for User Id: 1
+INFO  03:40:31 Application started. Press Ctrl+C to shut down.
+INFO  03:40:31 Application started. Press Ctrl+C to shut down.
+INFO  03:40:31 Hosting environment: Development
+INFO  03:40:31 Hosting environment: Development
+INFO  03:40:31 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Authorization\AuthorizationMicroservice
+INFO  03:40:31 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Authorization\AuthorizationMicroservice
