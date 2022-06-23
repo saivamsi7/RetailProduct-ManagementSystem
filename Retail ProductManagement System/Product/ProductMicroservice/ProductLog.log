@@ -1,0 +1,43 @@
+INFO  01:41:47 Application started. Press Ctrl+C to shut down.
+INFO  01:41:47 Application started. Press Ctrl+C to shut down.
+INFO  01:41:47 Hosting environment: Development
+INFO  01:41:47 Hosting environment: Development
+INFO  01:41:47 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  01:41:47 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  01:41:58 ProductController - GetAllProducts
+INFO  01:41:58 ProductController - GetAllProducts - All Products Fetched
+INFO  01:42:12 ProductController - SearchProductById
+INFO  01:42:12 ProductController - SearchProductById - Successfuly Searched Product Id: 2
+INFO  01:42:29 ProductController - SearchProductByName
+INFO  01:42:29 ProductController - SearchProductByName - Successfuly Searched Product Name: Product 3
+INFO  01:42:50 ProductController - AddProductRating
+INFO  01:42:50 ProductController - AddProductRating - Successfully Added Rating for Product Id: 4
+INFO  04:10:41 Application started. Press Ctrl+C to shut down.
+INFO  04:10:41 Application started. Press Ctrl+C to shut down.
+INFO  04:10:41 Hosting environment: Development
+INFO  04:10:41 Hosting environment: Development
+INFO  04:10:41 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:10:41 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:11:08 ProductController - AddProductRating
+INFO  04:11:08 ProductController - AddProductRating - Successfully Added Rating for Product Id: 1
+INFO  04:16:11 Application started. Press Ctrl+C to shut down.
+INFO  04:16:11 Application started. Press Ctrl+C to shut down.
+INFO  04:16:11 Hosting environment: Development
+INFO  04:16:11 Hosting environment: Development
+INFO  04:16:11 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:16:11 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:16:33 ProductController - AddProductRating
+INFO  04:21:55 Application started. Press Ctrl+C to shut down.
+INFO  04:21:55 Application started. Press Ctrl+C to shut down.
+INFO  04:21:55 Hosting environment: Development
+INFO  04:21:55 Hosting environment: Development
+INFO  04:21:55 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:21:55 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:22:16 ProductController - AddProductRating
+INFO  04:22:56 Application started. Press Ctrl+C to shut down.
+INFO  04:22:56 Application started. Press Ctrl+C to shut down.
+INFO  04:22:56 Hosting environment: Development
+INFO  04:22:56 Hosting environment: Development
+INFO  04:22:56 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:22:56 Content root path: E:\My Documents\Cogni\MFPE\RetailProductManagement\Product\ProductMicroservice
+INFO  04:23:06 ProductController - AddProductRating
