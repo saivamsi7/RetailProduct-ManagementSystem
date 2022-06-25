@@ -49,9 +49,9 @@ namespace AuthorizationTesting
         {
             user = new List<UserModel>()
             {
-                new UserModel{ userid=1,password="123562",username="Abhishek"},
-                new UserModel{ userid=2,password="1235",username="Shubham"},
-                new UserModel{ userid=3,password="1235987",username="Shailesh"}
+                new UserModel{ userid=1,password="123562",username="Siva nagendra"},
+                new UserModel{ userid=2,password="1235",username="Ssi vamsi"},
+                new UserModel{ userid=3,password="1235987",username="Gokul"}
             };
         }
 
