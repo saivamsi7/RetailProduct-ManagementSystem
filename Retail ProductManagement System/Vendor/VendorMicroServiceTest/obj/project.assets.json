@@ -6734,23 +6734,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shailesh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\Vendor\\VendorMicroServiceTest\\VendorMicroServiceTest.csproj",
+      "projectUniqueName": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\Vendor\\VendorMicroServiceTest\\VendorMicroServiceTest.csproj",
       "projectName": "VendorMicroServiceTest",
-      "projectPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\Vendor\\VendorMicroServiceTest\\VendorMicroServiceTest.csproj",
-      "packagesPath": "C:\\Users\\Shailesh\\.nuget\\packages\\",
-      "outputPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\Vendor\\VendorMicroServiceTest\\obj\\",
+      "projectPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\Vendor\\VendorMicroServiceTest\\VendorMicroServiceTest.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\Vendor\\VendorMicroServiceTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shailesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6762,9 +6763,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\Vendor\\VendorMicroservice\\VendorMicroservice.csproj": {
-              "projectPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\Vendor\\VendorMicroservice\\VendorMicroservice.csproj"
+            "D:\\Retail ProductManagement System\\Retail ProductManagement System\\Vendor\\VendorMicroservice\\VendorMicroservice.csproj": {
+              "projectPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\Vendor\\VendorMicroservice\\VendorMicroservice.csproj"
             }
           }
         }
@@ -6777,6 +6779,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -6806,14 +6809,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

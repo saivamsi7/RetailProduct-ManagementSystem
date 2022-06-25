@@ -5531,23 +5531,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shailesh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\ProceedToBuyMicroserviceTest.csproj",
+      "projectUniqueName": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\ProceedToBuyMicroserviceTest.csproj",
       "projectName": "ProceedToBuyMicroserviceTest",
-      "projectPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\ProceedToBuyMicroserviceTest.csproj",
-      "packagesPath": "C:\\Users\\Shailesh\\.nuget\\packages\\",
-      "outputPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\obj\\",
+      "projectPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\ProceedToBuyMicroserviceTest.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\ProceedToBuy\\ProceedToBuyMicroserviceTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shailesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5559,9 +5560,10 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\ProceedToBuy\\ProceedToBuyMicroservice\\ProceedToBuyMicroservice.csproj": {
-              "projectPath": "E:\\My Documents\\Cogni\\MFPE\\RetailProductManagement\\ProceedToBuy\\ProceedToBuyMicroservice\\ProceedToBuyMicroservice.csproj"
+            "D:\\Retail ProductManagement System\\Retail ProductManagement System\\ProceedToBuy\\ProceedToBuyMicroservice\\ProceedToBuyMicroservice.csproj": {
+              "projectPath": "D:\\Retail ProductManagement System\\Retail ProductManagement System\\ProceedToBuy\\ProceedToBuyMicroservice\\ProceedToBuyMicroservice.csproj"
             }
           }
         }
@@ -5574,6 +5576,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -5603,14 +5606,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

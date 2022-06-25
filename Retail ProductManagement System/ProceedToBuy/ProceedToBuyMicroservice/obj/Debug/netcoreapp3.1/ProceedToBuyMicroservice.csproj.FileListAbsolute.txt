@@ -292,3 +292,45 @@ E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicr
 E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.dll
 E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.pdb
 E:\My Documents\Cogni\MFPE\RetailProductManagement\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.genruntimeconfig.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.StaticWebAssets.xml
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.exe
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.deps.json
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.runtimeconfig.json
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.runtimeconfig.dev.json
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\ProceedToBuyMicroservice.pdb
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.csproj.AssemblyReference.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.AssemblyInfoInputs.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.AssemblyInfo.cs
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.csproj.CoreCompileInputs.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuyMicroservice.StaticWebAssets.Manifest.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.RazorTargetAssemblyInfo.cache
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.csproj.CopyComplete
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.dll
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.pdb
+D:\Retail ProductManagement System\Retail ProductManagement System\ProceedToBuy\ProceedToBuyMicroservice\obj\Debug\netcoreapp3.1\ProceedToBuyMicroservice.genruntimeconfig.cache
